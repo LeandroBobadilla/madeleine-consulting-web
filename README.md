@@ -16,25 +16,26 @@ Este proyecto busca mostrar sus servicios de formación y consultoría independi
 
 ## 📂 Estructura del repositorio
 
-madeleine-consulting/
+│Carpeta/file │ Descripción │
+│madeleine-consulting/ │			│
 │
-├── index.html               # Página principal (visión, misión, objetivos)
-├── quien-soy.html           # Perfil profesional
-├── servicios.html           # Servicios ofrecidos
-├── publicaciones.html       # Blog y guías técnicas
-├── contacto.html            # Formulario de contacto
-│
-├── assets/                 # Recursos estáticos
-│   ├── css/                # Estilos globales
-│   ├── img/                # Imágenes (perfil, logo, fondos)
-│   └── js/                 # Scripts básicos
-│
-├── Blog/                   # Entradas de blog
-├── Capacitación/           # Materiales de cursos y talleres
-├── Publicaciones/          # Guías y manuales técnicos
-├── Formularios/            # Formularios adicionales
-│
-└── README.md                # Documentación del proyecto
+│─ index.html           │   # Página principal (visión, misión, objetivos) │
+│─ quien-soy.html       │   # Perfil profesional │
+│─ servicios.html       │   # Servicios ofrecidos │
+│─ publicaciones.html   │   # Blog y guías técnicas │
+│─ contacto.html        │   # Formulario de contacto │
+│						│							│
+│─ assets/              │   # Recursos estáticos │
+│    ├── css/          │   # Estilos globales │
+│    ├── img/          │   # Imágenes (perfil, logo, fondos) │
+│    └── js/           │   # Scripts básicos │
+│						│						│
+│─ Blog/                │   # Entradas de blog │
+│─ Capacitación/        │   # Materiales de cursos y talleres │
+│─ Publicaciones/       │   # Guías y manuales técnicos │
+│─ Formularios/         │   # Formularios adicionales │
+│						 │									│
+│─ README.md            │    # Documentación del proyecto │
 
 
 ---
