@@ -3,6 +3,7 @@
 Página web profesional de **Madeleine Felicia Abregú Yataco**, ingeniera ambiental especialista en **gestión del riesgo de desastres** y capacitación técnica.
 
 Este proyecto es la plataforma digital para sus servicios de consultoría independiente, enfocada en docencia, resiliencia comunitaria y normas de gestión de calidad.
+https://leandrobobadilla.github.io/madeleine-consulting-web/
 
 ---
 
@@ -50,4 +51,5 @@ Los servicios promocionados en este sitio son de carácter **independiente**. No
 ## 👨‍💻 Créditos
 
 * **Desarrollador:** M. Leandro Bobadilla Sandoval.
+
 * **Propósito:** Plataforma de demostración profesional y capacitación.
