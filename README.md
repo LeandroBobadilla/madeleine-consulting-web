@@ -1,61 +1,53 @@
 # Madeleine Consulting 🌍
 
-Página web demostrativa para el perfil profesional de **Madeleine Felicia Abregú Yataco**, ingeniera ambiental especializada en **gestión del riesgo de desastres** y con amplia experiencia en capacitación técnica.
+Página web profesional de **Madeleine Felicia Abregú Yataco**, ingeniera ambiental especialista en **gestión del riesgo de desastres** y capacitación técnica.
 
-Este proyecto busca mostrar sus servicios de formación y consultoría independiente, con un enfoque en **docencia, resiliencia comunitaria y normas de gestión de calidad y riesgos**.
-
----
-
-## 🎯 Objetivos del proyecto
-- Presentar la **visión, misión y objetivos** de Madeleine Consulting.
-- Ofrecer un espacio claro para **capacitaciones y asesorías**.
-- Publicar **artículos, guías y manuales** en un blog técnico.
-- Facilitar el **contacto directo** mediante formularios gratuitos.
+Este proyecto es la plataforma digital para sus servicios de consultoría independiente, enfocada en docencia, resiliencia comunitaria y normas de gestión de calidad.
 
 ---
 
-## 📂 Estructura del repositorio
+## 🎯 Objetivos del Proyecto
 
-│Carpeta/file │ Descripción │
-│madeleine-consulting/ │			│
-│
-│─ index.html           │   # Página principal (visión, misión, objetivos) │
-│─ quien-soy.html       │   # Perfil profesional │
-│─ servicios.html       │   # Servicios ofrecidos │
-│─ publicaciones.html   │   # Blog y guías técnicas │
-│─ contacto.html        │   # Formulario de contacto │
-│						│							│
-│─ assets/              │   # Recursos estáticos │
-│    ├── css/          │   # Estilos globales │
-│    ├── img/          │   # Imágenes (perfil, logo, fondos) │
-│    └── js/           │   # Scripts básicos │
-│						│						│
-│─ Blog/                │   # Entradas de blog │
-│─ Capacitación/        │   # Materiales de cursos y talleres │
-│─ Publicaciones/       │   # Guías y manuales técnicos │
-│─ Formularios/         │   # Formularios adicionales │
-│						 │									│
-│─ README.md            │    # Documentación del proyecto │
-
+* **Marca Personal:** Presentar la visión, misión y trayectoria de Madeleine.
+* **Capacitación:** Ofrecer un catálogo claro de formación y asesorías técnicas.
+* **Divulgación:** Publicar artículos y manuales técnicos en un blog especializado.
+* **Conversión:** Facilitar el contacto directo para nuevos proyectos de consultoría.
 
 ---
 
-## 🚀 Tecnologías utilizadas
-- **HTML5** y **CSS3** para la estructura y estilos.
-- **JavaScript básico** para interactividad (validación de formularios).
-- **GitHub Pages** para hosting gratuito.
-- **Netlify Forms / Formspree** para formularios sin backend.
-- Recursos gratuitos: **Google Fonts**, **Unsplash/Pexels** para imágenes.
+## 📂 Estructura del Proyecto
+
+Una organización limpia para facilitar el mantenimiento del sitio:
+
+| Carpeta / Archivo | Función |
+| :--- | :--- |
+| 📁 `assets/` | Recursos estáticos (CSS, Imágenes profesionales, Scripts) |
+| 📁 `Blog/` | Entradas y artículos de opinión técnica |
+| 📁 `Capacitacion/` | Material didáctico, programas de cursos y talleres |
+| 📁 `Formularios/` | Documentación y archivos para gestión de contacto |
+| 📁 `Publicaciones/` | Guías, manuales técnicos y recursos descargables |
+| 📄 `index.html` | **Página de Inicio** (Visión, Misión y Objetivos) |
+| 📄 `README.md` | Documentación del repositorio |
 
 ---
 
-## 📌 Notas importantes
-- Los servicios promocionados son **independientes** y no incluyen funciones realizadas bajo contratos CAS en el sector público, respetando la normativa laboral peruana.
-- El proyecto está en constante mejora: se irán agregando nuevas publicaciones y recursos.
+## 🚀 Tecnologías y Herramientas
+
+Para mantener costos mínimos y alta eficiencia, utilizamos:
+* **Frontend:** HTML5 & CSS3 (Estructura y diseño a medida).
+* **Interactividad:** JavaScript para validaciones y dinamismo básico.
+* **Hosting:** [GitHub Pages](https://pages.github.com/) (Alojamiento gratuito y profesional).
+* **Recursos:** Google Fonts y bancos de imágenes de alta resolución (Pexels/Unsplash).
+
+---
+
+## 📌 Notas de Cumplimiento
+
+Los servicios promocionados en este sitio son de carácter **independiente**. No incluyen ni interfieren con funciones realizadas bajo contratos CAS en el sector público, cumpliendo estrictamente con la normativa laboral peruana vigente.
 
 ---
 
 ## 👨‍💻 Créditos
-Desarrollado por **M.Leandro Bobadilla Sandoval** con asesoría de Copilot.  
-Proyecto creado como demostración profesional y plataforma de capacitación.
 
+* **Desarrollador:** M. Leandro Bobadilla Sandoval.
+* **Propósito:** Plataforma de demostración profesional y capacitación.
