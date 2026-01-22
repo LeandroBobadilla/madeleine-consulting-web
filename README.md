@@ -1,105 +1,57 @@
-<<<<<<< HEAD
 # Madeleine Consulting 🌍
+### Consultoría y Capacitación en Gestión del Riesgo y Calidad
 
-Página web profesional de **Madeleine Felicia Abregú Yataco**, ingeniera ambiental especialista en **gestión del riesgo de desastres** y capacitación técnica.
-
-Este proyecto es la plataforma digital para sus servicios de consultoría independiente, enfocada en docencia, resiliencia comunitaria y normas de gestión de calidad.
-
----
-
-## 🎯 Objetivos del Proyecto
-
-* **Marca Personal:** Presentar la visión, misión y trayectoria de Madeleine.
-* **Capacitación:** Ofrecer un catálogo claro de formación y asesorías técnicas.
-* **Divulgación:** Publicar artículos y manuales técnicos en un blog especializado.
-* **Conversión:** Facilitar el contacto directo para nuevos proyectos de consultoría.
+Bienvenido al repositorio oficial de la plataforma profesional de **Madeleine Felicia Abregú Yataco**, Ingeniera Ambiental colegiada con más de 11 años de trayectoria especializada en la resiliencia institucional y la optimización de procesos.
 
 ---
 
-## 📂 Estructura del Proyecto
+## 🎯 Propósito del Proyecto
+Este sitio funciona como una vitrina profesional y centro de recursos para:
+* **Fortalecimiento de Capacidades:** Difusión de metodologías para la gestión de información en emergencias.
+* **Consultoría Estratégica:** Asesoría en la implementación de Sistemas de Gestión de Calidad (ISO 9001:2015).
+* **Gestión del Conocimiento:** Repositorio de guías técnicas y artículos de opinión sobre gestión del riesgo de desastres (GRD).
 
-Una organización limpia para facilitar el mantenimiento del sitio:
+---
 
-| Carpeta / Archivo | Función |
+## 📂 Estructura del Ecosistema Digital
+
+| Carpeta / Archivo | Descripción Profesional |
 | :--- | :--- |
-| 📁 `assets/` | Recursos estáticos (CSS, Imágenes profesionales, Scripts) |
-| 📁 `Blog/` | Entradas y artículos de opinión técnica |
-| 📁 `Capacitacion/` | Material didáctico, programas de cursos y talleres |
-| 📁 `Formularios/` | Documentación y archivos para gestión de contacto |
-| 📁 `Publicaciones/` | Guías, manuales técnicos y recursos descargables |
-| 📄 `index.html` | **Página de Inicio** (Visión, Misión y Objetivos) |
-| 📄 `README.md` | Documentación del repositorio |
+| 📁 `assets/` | Identidad visual, estilos (CSS) y recursos multimedia. |
+| 📁 `Blog/` | Artículos técnicos y análisis sobre tendencias en resiliencia. |
+| 📁 `Capacitacion/` | Sílabos y programas de formación técnica (Docencia). |
+| 📁 `Publicaciones/` | Manuales, guías descargables y recursos de libre acceso. |
+| 📄 `index.html` | Portada principal: Visión, Misión y propuesta de valor. |
+| 📄 `quien-soy.html` | Perfil profesional detallado y trayectoria. |
+| 📄 `servicios.html` | Catálogo de servicios de consultoría independiente. |
 
 ---
 
-## 🚀 Tecnologías y Herramientas
-
-Para mantener costos mínimos y alta eficiencia, utilizamos:
-* **Frontend:** HTML5 & CSS3 (Estructura y diseño a medida).
-* **Interactividad:** JavaScript para validaciones y dinamismo básico.
-* **Hosting:** [GitHub Pages](https://pages.github.com/) (Alojamiento gratuito y profesional).
-* **Recursos:** Google Fonts y bancos de imágenes de alta resolución (Pexels/Unsplash).
+## 🚀 Especialidades Técnicas
+El contenido y los servicios de esta plataforma se centran en:
+1. **Docencia Especializada:** Formación en operatividad de Centros de Operaciones de Emergencia (COE).
+2. **Sistemas de Gestión:** Implementación, auditoría y mejora continua bajo la norma ISO 9001:2015.
+3. **Resiliencia Organizacional:** Diseño de planes de preparación y continuidad operativa para el sector privado.
 
 ---
 
-## 📌 Notas de Cumplimiento
+## ⚖️ Declaración de Cumplimiento Ético y Legal
+En estricto cumplimiento de la **Ley N° 28175 (Marco del Empleo Público)** y la **Ley N° 27815 (Código de Ética)** en Perú:
 
-Los servicios promocionados en este sitio son de carácter **independiente**. No incluyen ni interfieren con funciones realizadas bajo contratos CAS en el sector público, cumpliendo estrictamente con la normativa laboral peruana vigente.
-
----
-
-## 👨‍💻 Créditos
-
-* **Desarrollador:** M. Leandro Bobadilla Sandoval.
-* **Propósito:** Plataforma de demostración profesional y capacitación.
-=======
-# Madeleine Consulting 🌍
-
-Página web profesional de **Madeleine Felicia Abregú Yataco**, ingeniera ambiental especialista en **gestión del riesgo de desastres** y capacitación técnica.
-
-Este proyecto es la plataforma digital para sus servicios de consultoría independiente, enfocada en docencia, resiliencia comunitaria y normas de gestión de calidad.
-https://leandrobobadilla.github.io/madeleine-consulting-web/
+* **Independencia:** Todas las actividades de consultoría y capacitación aquí promocionadas se realizan de forma independiente y fuera de la jornada laboral institucional.
+* **Neutralidad:** Los servicios ofrecidos no interfieren con las funciones públicas actuales de la titular ni generan conflictos de intereses con el sector público.
+* **Docencia:** La actividad académica se ejerce bajo el amparo de la excepción constitucional de docencia, permitida para servidores del Estado.
 
 ---
 
-## 🎯 Objetivos del Proyecto
-
-* **Marca Personal:** Presentar la visión, misión y trayectoria de Madeleine.
-* **Capacitación:** Ofrecer un catálogo claro de formación y asesorías técnicas.
-* **Divulgación:** Publicar artículos y manuales técnicos en un blog especializado.
-* **Conversión:** Facilitar el contacto directo para nuevos proyectos de consultoría.
+## 🛠️ Tecnologías Utilizadas
+* **Arquitectura:** HTML5, CSS3 y JavaScript (Diseño ligero y eficiente).
+* **Despliegue:** [GitHub Pages](https://pages.github.com/) (Hosting de alta disponibilidad).
+* **Gestión de Versiones:** Git & GitHub Desktop.
 
 ---
 
-## 📂 Estructura del Proyecto
-
-Una organización limpia para facilitar el mantenimiento del sitio:
-
-| Carpeta / Archivo | Función |
-| :--- | :--- |
-| 📁 `assets/` | Recursos estáticos (CSS, Imágenes profesionales, Scripts) |
-| 📁 `Blog/` | Entradas y artículos de opinión técnica |
-| 📁 `Capacitacion/` | Material didáctico, programas de cursos y talleres |
-| 📁 `Formularios/` | Documentación y archivos para gestión de contacto |
-| 📁 `Publicaciones/` | Guías, manuales técnicos y recursos descargables |
-| 📄 `index.html` | **Página de Inicio** (Visión, Misión y Objetivos) |
-| 📄 `README.md` | Documentación del repositorio |
-
----
-
-## 🚀 Tecnologías y Herramientas
-
-Para mantener costos mínimos y alta eficiencia, utilizamos:
-* **Frontend:** HTML5 & CSS3 (Estructura y diseño a medida).
-* **Interactividad:** JavaScript para validaciones y dinamismo básico.
-* **Hosting:** [GitHub Pages](https://pages.github.com/) (Alojamiento gratuito y profesional).
-* **Recursos:** Google Fonts y bancos de imágenes de alta resolución (Pexels/Unsplash).
-
----
-
-## 📌 Notas de Cumplimiento
-
-Los servicios promocionados en este sitio son de carácter **independiente**. No incluyen ni interfieren con funciones realizadas bajo contratos CAS en el sector público, cumpliendo estrictamente con la normativa laboral peruana vigente.
+**Desarrollado con enfoque en la excelencia profesional y la integridad ética.**
 
 ---
 
@@ -108,4 +60,3 @@ Los servicios promocionados en este sitio son de carácter **independiente**. No
 * **Desarrollador:** M. Leandro Bobadilla Sandoval.
 
 * **Propósito:** Plataforma de demostración profesional y capacitación.
->>>>>>> 10c1d3e3ab5e14c9deefe7844b1ed783cfbb73a7
