@@ -11,14 +11,13 @@ body {
   line-height: 1.6;
   background-color: #f9f9f9;
   color: #333;
-  padding: 0;
 }
 
 /* Encabezado */
 header {
   background-color: #004d40;
   color: white;
-  padding: 40px 20px;
+  padding: 30px 20px;
   text-align: center;
 }
 
@@ -38,11 +37,11 @@ nav ul {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 nav ul li {
-  margin: 10px;
+  margin: 8px;
 }
 
 nav ul li a {
@@ -58,7 +57,7 @@ nav ul li a:hover {
   background-color: #004d40;
 }
 
-/* Secciones */
+/* Secciones generales */
 section {
   margin: 40px auto;
   max-width: 900px;
@@ -72,14 +71,30 @@ section h2 {
   padding-bottom: 5px;
 }
 
-section ul {
-  list-style-type: disc;
-  margin-left: 20px;
-  margin-top: 10px;
-}
-
 section p {
   margin-bottom: 15px;
+  font-size: 1.1em;
+}
+
+/* Sección de presentación */
+#presentacion {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+#presentacion h2 {
+  font-size: 1.8em;
+  color: #004d40;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#presentacion p {
+  font-size: 1.1em;
+  margin-bottom: 15px;
+  text-align: justify;
 }
 
 /* Imagen de perfil */
@@ -88,6 +103,7 @@ section p {
   margin: 20px auto;
   border: 4px solid #00796b;
   border-radius: 50%;
+  max-width: 180px;
 }
 
 /* Formulario de contacto */
@@ -147,5 +163,41 @@ footer {
 
   section {
     padding: 0 10px;
+  }
+
+  #presentacion h2 {
+    font-size: 1.5em;
+  }
+
+  #presentacion p {
+    font-size: 1em;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    padding: 20px 10px;
+  }
+
+  header h1 {
+    font-size: 1.6em;
+  }
+
+  nav ul li a {
+    padding: 8px 12px;
+    font-size: 0.9em;
+  }
+
+  #presentacion {
+    padding: 15px;
+  }
+
+  #presentacion h2 {
+    font-size: 1.3em;
+  }
+
+  #presentacion p {
+    font-size: 0.95em;
   }
 }
